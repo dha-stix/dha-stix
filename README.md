@@ -1,6 +1,7 @@
+![Purple Brush Paint General Linkedin Banner (1)](https://user-images.githubusercontent.com/67129211/132988181-3cc1ed04-bac5-4a30-835e-271867176607.png)
+
+
 ### Hi there 👋
-
-
 
 - 🔭 I’m currently working on ReactJS
 - 🌱 I’m currently learning  NextJS
