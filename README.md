@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on ReactJS, NextJs, ReactNative & Firebase 
+- 🔭 I’m currently working on JavaScript, ReactJS, NextJs, ReactNative & Firebase 
 - 🌱 I’m currently learning  ReactNative, NextJS & Typescript
 - 👯 I’m looking to collaborate on  ReactJS & React Native
 - 🤔 I’m looking for help with find remote gigs or job Check out my [Porfolio](https://david-asaolu.vercel.app/)
