@@ -7,7 +7,7 @@ Frontend Developer & Technical Writer
 -------------------------------------
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🖥️  See my portfolio at [Portfolio:](http://david-asaolu.vercel.app)
+* 🚀  View my [Portfolio](http://david-asaolu.vercel.app)
 * ✉️  You can contact me at [asaoludavid234@gmail.com](mailto:asaoludavid234@gmail.com)
 * 🚀  I'm currently working on [Upwork](http://www.upwork.com/freelancers/~01a622f54d6127b42f)
 * 🧠  I'm learning React Native, Web3 Full Stack Development
@@ -18,7 +18,7 @@ src="https://img.shields.io/twitter/follow/Arshadayvid?logo=twitter&style=for-th
 /></a><a href="https://www.github.com/dha-stix" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dha-stix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+### Skills & Tools
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
