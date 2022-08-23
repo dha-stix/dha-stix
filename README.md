@@ -13,8 +13,8 @@ Frontend Developer & Technical Writer
 * 🧠  I'm learning React Native, Web3 Full Stack Development
 * 🤝  I'm open to collaborating on Full Stack and Block Chain Development
 
-<a href="https://www.twitter.com/Arshadayvid" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Arshadayvid?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+<a href="https://www.twitter.com/Dayvid_JS" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/Dayvid_JS?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/dha-stix" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/dha-stix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
