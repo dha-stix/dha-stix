@@ -7,7 +7,7 @@ Frontend Developer & Technical Writer
 -------------------------------------
 
 * 🌍  I'm based in Lagos, Nigeria
-* 🚀  View my [Portfolio](http://david-asaolu.vercel.app)
+* 🚀  View my [Portfolio](https://dave-asaolu.vercel.app/)
 * ✉️  You can contact me at [asaoludavid234@gmail.com](mailto:asaoludavid234@gmail.com)
 * 🚀  I'm currently working on [Upwork](http://www.upwork.com/freelancers/~01a622f54d6127b42f)
 * 🧠  I'm learning React Native, Web3 Full Stack Development
