@@ -3,7 +3,7 @@
 Hi 👋 My name is David
 ======================
 
-Frontend Developer & Technical Writer
+Junior Software Engineer & Technical Writer
 -------------------------------------
 
 * 🌍  I'm based in Lagos, Nigeria
