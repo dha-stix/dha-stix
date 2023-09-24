@@ -1,4 +1,3 @@
-![David Asaolu Frontend Web Developer](https://user-images.githubusercontent.com/67129211/139619740-04505960-d01c-41a1-b7fd-476927339736.png)
 
 Hi 👋 My name is David
 ======================
