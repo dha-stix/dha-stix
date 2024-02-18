@@ -10,7 +10,7 @@ Junior Software Engineer & Technical Writer
 * ✉️  You can contact me at [asaoludavid234@gmail.com](mailto:asaoludavid234@gmail.com)
 * 🚀  I'm currently working on [Upwork](http://www.upwork.com/freelancers/~01a622f54d6127b42f)
 * 🧠  I'm learning React Native and Full Stack Development
-* 🤝  I'm open to collaborating on Full Stack and Block Chain Development
+* 🤝  I'm open to contributing to open-source and technical writing gigs.
 
 <a href="https://www.twitter.com/Dayvid_JS" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Dayvid_JS?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
