@@ -2,7 +2,7 @@
 Hi 👋 My name is David
 ======================
 
-Junior Software Engineer & Technical Writer
+Software Engineer || AI/ML Enthusiast || Technical Writer
 -------------------------------------
 
 * 🌍  I'm based in Lagos, Nigeria
