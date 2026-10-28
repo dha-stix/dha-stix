@@ -13,7 +13,7 @@
 
 <br />
 
-I’m a **software engineer and technical writer who helps startups grow**. I build full-stack products, and I write engaging tutorials and articles that market your product to developers and turn readers into users. My work runs on freeCodeCamp and DEV, including dev-rel content for Stream.
+I’m a **software engineer and technical writer who helps startups grow**. I build full-stack products, and I write engaging tutorials and articles that market your product to developers and turn readers into users. My work runs on freeCodeCamp and DEV, and I’ve worked with software companies including **Zernio**, **Stream**, **Novu** and **OpenMRS**.
 
 > 🚀 **Open to work with startups:** technical content, developer marketing and product engineering. **[Let’s talk →](https://davidasaolu.dev/#contact)**
 
