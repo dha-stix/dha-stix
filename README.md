@@ -13,7 +13,11 @@
 
 <br />
 
-I’m a software engineer who ships full-stack products, writes the tutorial and films the walkthrough. I graduated top of my class in Computer Science (First Class, 4.8/5) and I’m now going deeper into **computer vision**: detection, segmentation and multimodal models.
+I’m a **software engineer and technical writer who helps startups grow**. I build full-stack products, and I write engaging tutorials and articles that market your product to developers and turn readers into users. My work runs on freeCodeCamp and DEV, including dev-rel content for Stream.
+
+> 🚀 **Open to work with startups:** technical content, developer marketing and product engineering. **[Let’s talk →](https://davidasaolu.dev/#contact)**
+
+On the side, I research **computer vision** (detection, segmentation and multimodal models) and I’m open to **graduate research opportunities**. I graduated top of my class in Computer Science with First Class Honours (4.8/5).
 
 Everything lives at **[davidasaolu.dev](https://davidasaolu.dev)**.
 
