@@ -1,58 +1,118 @@
+<div align="center">
 
-Hi 👋 My name is David
-======================
+<a href="https://davidasaolu.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg" />
+    <img src="assets/header-light.svg" width="100%" alt="Hi, I’m David Asaolu. I build software, write tutorials, make videos and do research." />
+  </picture>
+</a>
 
-Software Engineer || AI/ML Enthusiast || Technical Writer
--------------------------------------
+<a href="https://davidasaolu.dev/software"><img src="assets/door-software.svg" width="24%" alt="Software" /></a> <a href="https://davidasaolu.dev/writing"><img src="assets/door-writing.svg" width="24%" alt="Technical writing" /></a> <a href="https://davidasaolu.dev/content"><img src="assets/door-content.svg" width="24%" alt="Content creator" /></a> <a href="https://davidasaolu.dev/research"><img src="assets/door-research.svg" width="24%" alt="Graduate research" /></a>
 
-* 🌍  I'm based in Lagos, Nigeria
-* 🚀  View my [Portfolio](https://dave-asaolu.vercel.app/)
-* ✉️  You can contact me at [asaoludavid234@gmail.com](mailto:asaoludavid234@gmail.com)
-* 🚀  I'm currently working on [Upwork](http://www.upwork.com/freelancers/~01a622f54d6127b42f)
-* 🧠  I'm learning React Native and Full Stack Development
-* 🤝  I'm open to contributing to open-source and technical writing gigs.
+</div>
 
-<a href="https://www.twitter.com/Dayvid_JS" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Dayvid_JS?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/dha-stix" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/dha-stix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<br />
 
-### Skills & Tools
+I’m a software engineer who ships full-stack products, writes the tutorial and films the walkthrough. I graduated top of my class in Computer Science (First Class, 4.8/5) and I’m now going deeper into **computer vision**: detection, segmentation and multimodal models.
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<a href="https://uniswap.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/uniswap-colored.svg" width="36" height="36" alt="Uniswap" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://web3js.readthedocs.io/en/v1.7.1/#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/web3js-colored.svg" width="36" height="36" alt="Web3Js" /></a>
-<a href="https://hardhat.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/hardhat-colored.svg" width="36" height="36" alt="Hardhat" /></a>
-<a href="https://docs.alchemy.com/alchemy/documentation/alchemy-web3" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/alchemy-colored.svg" width="36" height="36" alt="Alchemy" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-</p>
+Everything lives at **[davidasaolu.dev](https://davidasaolu.dev)**.
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### Socials
+### ✍️ Latest writing
 
-<p align="left"> <a href="https://www.dev.to/arshadayvid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/dha-stix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://beginnerfriendly" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/david-asaolu234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Dayvid_JS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<!-- WRITING:START -->
+- [How to Build an AI Social Media Post Scheduler Using Gemini and Late API in Next.js](https://www.freecodecamp.org/news/how-to-build-an-ai-social-media-post-scheduler-using-gemini-and-late-api-in-nextjs/)<br /><sub>freeCodeCamp · Jan 2026</sub>
+- [Build a Google Docs-Style Editor with NextJS and Quill](https://dev.to/getstreamhq/build-a-google-docs-style-editor-with-nextjs-and-quill-4fc2)<br /><sub>DEV · Nov 2025</sub>
+- [Build a Snapchat Clone with Streaks Using Nextjs & Firebase](https://dev.to/getstreamhq/build-a-snapchat-clone-with-streaks-using-nextjs-firebase-3m4n)<br /><sub>DEV · Oct 2025</sub>
+- [Build a Gaming App with Next.js and Firebase](https://dev.to/getstreamhq/how-i-built-a-multiplayer-gaming-app-with-nextjs-and-firebase-2kif)<br /><sub>DEV · Jul 2025</sub>
+- [Build a Therapy Marketplace Using Next.js and Firebase](https://dev.to/getstreamhq/build-a-therapy-marketplace-using-nextjs-and-firebase-37)<br /><sub>DEV · May 2025</sub>
+<!-- WRITING:END -->
+
+<sub>[All articles →](https://davidasaolu.dev/writing)</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### ▶️ Latest videos
+
+<!-- VIDEOS:START -->
+- [Build a Google Docs-Style Collaborative Editor with Nextjs Stream, and QuillJS](https://www.youtube.com/watch?v=UxszD2grJ5M)<br /><sub>Nov 2025 · 52 views</sub>
+- [Build a Snapchat Clone with Streaks Using Next.js, Stream and Firebase](https://www.youtube.com/watch?v=i6Y_X2r_U3Q)<br /><sub>Oct 2025 · 110 views</sub>
+- [Build a Multiplayer Gaming App with Next.js, Stream and Firebase](https://www.youtube.com/watch?v=n9Owt2wXHp0)<br /><sub>May 2025 · 311 views</sub>
+- [DEMO: Build a Job Application & Interview Platform with Next.js and Stream](https://www.youtube.com/watch?v=oa3Pu0izQfs)<br /><sub>Apr 2025 · 236 views</sub>
+<!-- VIDEOS:END -->
+
+<sub>[Beginner Friendly Dev on YouTube →](https://www.youtube.com/@beginner_friendly_dev)</sub>
+
+</td>
+</tr>
+</table>
+
+### 🛠️ Things I’ve built
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://sharpbill--sharpbill-2b40a.us-east4.hosted.app/"><img src="assets/projects/sharpbill.jpg" alt="SharpBill homepage" /></a>
+      <br /><b><a href="https://sharpbill--sharpbill-2b40a.us-east4.hosted.app/">SharpBill</a></b> · <sub>Invoicing for freelancers</sub>
+      <br /><sub><a href="https://sharpbill--sharpbill-2b40a.us-east4.hosted.app/">Live ↗</a> · <a href="https://github.com/dha-stix/sharpbill">Code</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://evently-rho-six.vercel.app/"><img src="assets/projects/evently.jpg" alt="Evently homepage" /></a>
+      <br /><b><a href="https://evently-rho-six.vercel.app/">Evently</a></b> · <sub>Event registration & check-in</sub>
+      <br /><sub><a href="https://evently-rho-six.vercel.app/">Live ↗</a> · <a href="https://github.com/dha-stix/evently">Code</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://salesmoni.vercel.app/"><img src="assets/projects/salesmoni.jpg" alt="SalesMoni homepage" /></a>
+      <br /><b><a href="https://salesmoni.vercel.app/">SalesMoni</a></b> · <sub>Sales records & stock control</sub>
+      <br /><sub><a href="https://salesmoni.vercel.app/">Live ↗</a> · <a href="https://github.com/dha-stix/salesmoni">Code</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://keepr-swart.vercel.app/"><img src="assets/projects/keepr.jpg" alt="Keepr homepage" /></a>
+      <br /><b><a href="https://keepr-swart.vercel.app/">Keepr</a></b> · <sub>Hotel booking & front desk</sub>
+      <br /><sub><a href="https://keepr-swart.vercel.app/">Live ↗</a> · <a href="https://github.com/dha-stix/keepr">Code</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://stutest-ten.vercel.app/"><img src="assets/projects/stutest.jpg" alt="Stutest homepage" /></a>
+      <br /><b><a href="https://stutest-ten.vercel.app/">Stutest</a></b> · <sub>AI tests & flashcards from any topic</sub>
+      <br /><sub><a href="https://stutest-ten.vercel.app/">Live ↗</a> · <a href="https://github.com/dha-stix/stutest">Code</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://lnk-tau.vercel.app/"><img src="assets/projects/lnk.jpg" alt="Lnk homepage" /></a>
+      <br /><b><a href="https://lnk-tau.vercel.app/">Lnk</a></b> · <sub>One link for everything you are</sub>
+      <br /><sub><a href="https://lnk-tau.vercel.app/">Live ↗</a> · <a href="https://github.com/dha-stix/lnk">Code</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://wearshop-eosin.vercel.app/"><img src="assets/projects/wearshop.jpg" alt="WearShop homepage" /></a>
+      <br /><b><a href="https://wearshop-eosin.vercel.app/">WearShop</a></b> · <sub>Luxury watch store</sub>
+      <br /><sub><a href="https://wearshop-eosin.vercel.app/">Live ↗</a> · <a href="https://github.com/dha-stix/wearshop">Code</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://coplan-delta.vercel.app/"><img src="assets/projects/coplan.jpg" alt="Coplan homepage" /></a>
+      <br /><b><a href="https://coplan-delta.vercel.app/">Coplan</a></b> · <sub>Team boards & planning</sub>
+      <br /><sub><a href="https://coplan-delta.vercel.app/">Live ↗</a> · <a href="https://github.com/dha-stix/coplan">Code</a></sub>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://scoop-six-sand.vercel.app/"><img src="assets/projects/scoop.jpg" alt="Scoop homepage" /></a>
+      <br /><b><a href="https://scoop-six-sand.vercel.app/">Scoop</a></b> · <sub>Hiring with live video interviews</sub>
+      <br /><sub><a href="https://scoop-six-sand.vercel.app/">Live ↗</a> · <a href="https://github.com/dha-stix/scoop">Code</a></sub>
+    </td>
+  </tr>
+</table>
+
+### 🧰 Tools I reach for
+
+<a href="https://davidasaolu.dev/software"><img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,tailwind,firebase,supabase,postgres,python,pytorch,opencv,vercel&perline=12" alt="Next.js, React, TypeScript, Node.js, Tailwind CSS, Firebase, Supabase, PostgreSQL, Python, PyTorch, OpenCV, Vercel" /></a>
+
+### 📫 Say hello
+
+<a href="https://davidasaolu.dev"><img src="https://img.shields.io/badge/davidasaolu.dev-111114?style=for-the-badge&logo=googlechrome&logoColor=white" alt="davidasaolu.dev" /></a> <a href="https://davidasaolu.dev/#contact"><img src="https://img.shields.io/badge/Message_me-FF5B23?style=for-the-badge&logo=maildotru&logoColor=white" alt="Message me" /></a> <a href="https://www.linkedin.com/in/david-asaolu234/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://x.com/dayvid_JS"><img src="https://img.shields.io/badge/X-111114?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> <a href="https://www.youtube.com/@beginner_friendly_dev"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a> <a href="https://dev.to/arshadayvid"><img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="DEV" /></a> <a href="https://www.freecodecamp.org/news/author/de/"><img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp" /></a>
+
+<sub>Writing and videos update daily from <a href="https://davidasaolu.dev">davidasaolu.dev</a>.</sub>
