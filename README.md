@@ -43,9 +43,9 @@ Everything lives at **[davidasaolu.dev](https://davidasaolu.dev)**.
 ### ▶️ Latest videos
 
 <!-- VIDEOS:START -->
-- [Build a Google Docs-Style Collaborative Editor with Nextjs Stream, and QuillJS](https://www.youtube.com/watch?v=UxszD2grJ5M)<br /><sub>Nov 2025 · 52 views</sub>
-- [Build a Snapchat Clone with Streaks Using Next.js, Stream and Firebase](https://www.youtube.com/watch?v=i6Y_X2r_U3Q)<br /><sub>Oct 2025 · 110 views</sub>
-- [Build a Multiplayer Gaming App with Next.js, Stream and Firebase](https://www.youtube.com/watch?v=n9Owt2wXHp0)<br /><sub>May 2025 · 311 views</sub>
+- [Build a Google Docs-Style Collaborative Editor with Nextjs Stream, and QuillJS](https://www.youtube.com/watch?v=UxszD2grJ5M)<br /><sub>Nov 2025 · 54 views</sub>
+- [Build a Snapchat Clone with Streaks Using Next.js, Stream and Firebase](https://www.youtube.com/watch?v=i6Y_X2r_U3Q)<br /><sub>Oct 2025 · 112 views</sub>
+- [Build a Multiplayer Gaming App with Next.js, Stream and Firebase](https://www.youtube.com/watch?v=n9Owt2wXHp0)<br /><sub>May 2025 · 312 views</sub>
 - [DEMO: Build a Job Application & Interview Platform with Next.js and Stream](https://www.youtube.com/watch?v=oa3Pu0izQfs)<br /><sub>Apr 2025 · 236 views</sub>
 <!-- VIDEOS:END -->
 
