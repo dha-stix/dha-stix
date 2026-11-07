@@ -43,7 +43,7 @@ Everything lives at **[davidasaolu.dev](https://davidasaolu.dev)**.
 ### ▶️ Latest videos
 
 <!-- VIDEOS:START -->
-- [I Built a Next.js Invoice App That Emails PDFs](https://www.youtube.com/watch?v=_whyYN7O6EQ)<br /><sub>Nov 2026 · 22 views</sub>
+- [I Built a Next.js Invoice App That Emails PDFs](https://www.youtube.com/watch?v=_whyYN7O6EQ)<br /><sub>Nov 2026 · 31 views</sub>
 - [Build a Google Docs-Style Collaborative Editor with Nextjs Stream, and QuillJS](https://www.youtube.com/watch?v=UxszD2grJ5M)<br /><sub>Nov 2025 · 55 views</sub>
 - [Build a Snapchat Clone with Streaks Using Next.js, Stream and Firebase](https://www.youtube.com/watch?v=i6Y_X2r_U3Q)<br /><sub>Oct 2025 · 120 views</sub>
 - [Build a Multiplayer Gaming App with Next.js, Stream and Firebase](https://www.youtube.com/watch?v=n9Owt2wXHp0)<br /><sub>May 2025 · 314 views</sub>
