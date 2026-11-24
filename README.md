@@ -28,11 +28,11 @@ Everything lives at **[davidasaolu.dev](https://davidasaolu.dev)**.
 ### ✍️ Latest writing
 
 <!-- WRITING:START -->
+- [How to Build an Invoice App with Next.js and Firebase Using Claude (With Prompts Included)](https://dev.to/python_and_beyond/how-to-build-an-invoice-app-with-nextjs-and-firebase-using-claude-with-prompts-included-31ko)<br /><sub>DEV · Nov 2026</sub>
 - [How to Build an AI Social Media Post Scheduler Using Gemini and Late API in Next.js](https://www.freecodecamp.org/news/how-to-build-an-ai-social-media-post-scheduler-using-gemini-and-late-api-in-nextjs/)<br /><sub>freeCodeCamp · Jan 2026</sub>
 - [Build a Google Docs-Style Editor with NextJS and Quill](https://dev.to/getstreamhq/build-a-google-docs-style-editor-with-nextjs-and-quill-4fc2)<br /><sub>DEV · Nov 2025</sub>
 - [Build a Snapchat Clone with Streaks Using Nextjs & Firebase](https://dev.to/getstreamhq/build-a-snapchat-clone-with-streaks-using-nextjs-firebase-3m4n)<br /><sub>DEV · Oct 2025</sub>
 - [Build a Gaming App with Next.js and Firebase](https://dev.to/getstreamhq/how-i-built-a-multiplayer-gaming-app-with-nextjs-and-firebase-2kif)<br /><sub>DEV · Jul 2025</sub>
-- [Build a Therapy Marketplace Using Next.js and Firebase](https://dev.to/getstreamhq/build-a-therapy-marketplace-using-nextjs-and-firebase-37)<br /><sub>DEV · May 2025</sub>
 <!-- WRITING:END -->
 
 <sub>[All articles →](https://davidasaolu.dev/writing)</sub>
@@ -43,10 +43,10 @@ Everything lives at **[davidasaolu.dev](https://davidasaolu.dev)**.
 ### ▶️ Latest videos
 
 <!-- VIDEOS:START -->
-- [Build a Google Docs-Style Collaborative Editor with Nextjs Stream, and QuillJS](https://www.youtube.com/watch?v=UxszD2grJ5M)<br /><sub>Nov 2025 · 52 views</sub>
-- [Build a Snapchat Clone with Streaks Using Next.js, Stream and Firebase](https://www.youtube.com/watch?v=i6Y_X2r_U3Q)<br /><sub>Oct 2025 · 110 views</sub>
-- [Build a Multiplayer Gaming App with Next.js, Stream and Firebase](https://www.youtube.com/watch?v=n9Owt2wXHp0)<br /><sub>May 2025 · 311 views</sub>
-- [DEMO: Build a Job Application & Interview Platform with Next.js and Stream](https://www.youtube.com/watch?v=oa3Pu0izQfs)<br /><sub>Apr 2025 · 236 views</sub>
+- [I Built a Next.js Invoice App That Emails PDFs](https://www.youtube.com/watch?v=_whyYN7O6EQ)<br /><sub>Nov 2026 · 124 views</sub>
+- [Build a Google Docs-Style Collaborative Editor with Nextjs Stream, and QuillJS](https://www.youtube.com/watch?v=UxszD2grJ5M)<br /><sub>Nov 2025 · 57 views</sub>
+- [Build a Snapchat Clone with Streaks Using Next.js, Stream and Firebase](https://www.youtube.com/watch?v=i6Y_X2r_U3Q)<br /><sub>Oct 2025 · 130 views</sub>
+- [Build a Multiplayer Gaming App with Next.js, Stream and Firebase](https://www.youtube.com/watch?v=n9Owt2wXHp0)<br /><sub>May 2025 · 320 views</sub>
 <!-- VIDEOS:END -->
 
 <sub>[Beginner Friendly Dev on YouTube →](https://www.youtube.com/@beginner_friendly_dev)</sub>
